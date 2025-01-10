@@ -272,7 +272,7 @@ function Pages() {
         },
         {
           name: '20-20 D T L',
-          route: '/casino/dtl20',
+          route: '/DTL20_20',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/dtl20.jpg',
           fallbackImage:
@@ -336,7 +336,7 @@ function Pages() {
         },
         {
           name: '3 Cards Judgement',
-          route: '/casino/3cardj',
+          route: '/Cards3_judgement',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/3cardj.jpg',
           fallbackImage:
@@ -344,7 +344,7 @@ function Pages() {
         },
         {
           name: 'Casino War',
-          route: '/casino/war',
+          route: '/CasinoWar',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/war.jpg',
           fallbackImage:
@@ -352,7 +352,7 @@ function Pages() {
         },
         {
           name: 'Worli Matka',
-          route: '/casino/worli',
+          route: '/WorliMatka',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/worli.jpg',
           fallbackImage:
@@ -360,7 +360,7 @@ function Pages() {
         },
         {
           name: 'Instant Worli',
-          route: '/casino/worli2',
+          route: '/InstantWorli',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/worli2.jpg',
           fallbackImage:
@@ -368,7 +368,7 @@ function Pages() {
         },
         {
           name: 'Amar Akbar Anthony',
-          route: '/casino/aaa',
+          route: '/AmarAkbarAnthony',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/aaa.jpg',
           fallbackImage:
@@ -376,7 +376,7 @@ function Pages() {
         },
         {
           name: 'Bollywood Casino',
-          route: '/casino/btable',
+          route: '/BollywoodCasino',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/btable.jpg',
           fallbackImage:
@@ -384,7 +384,7 @@ function Pages() {
         },
         {
           name: 'Lottery',
-          route: '/casino/lottcard',
+          route: '/Lottery',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/lottcard.jpg',
           fallbackImage:
@@ -392,12 +392,204 @@ function Pages() {
         },
         {
           name: '5Five Cricket',
-          route: '/casino/cricketv3',
+          route: '/FiveFiveCricket',
           primaryImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/lc/cricketv3.jpg',
           fallbackImage:
             'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
         },
+        {
+          name: 'Cricket Match 20-20',
+          route: '/CricketMatch20_20',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/cmatch20.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Casino Meter',
+          route: '/CasinoMeter',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/cmeter.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Teenpatti - 2.0',
+          route: '/TeenPatti2_0',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teen6.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        }, 
+        {
+          name: 'Queen',
+          route: '/Queen',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/queen.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Race20',
+          route: '/Race_20',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/race20.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Lucky 7 - C',
+          route: '/Lucky7C',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/lucky7eu2.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Super Over',
+          route: '/SuperOver',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/superover.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'The Trap',
+          route: '/TheTrap',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/trap.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: '2 Cards Teenpatti',
+          route: '/CardsTeenpatti2',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/patti2.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        }, 
+        {
+          name: '29Card Baccarat',
+          route: '/CardTeenpatti29',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teensin.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Muflis Teenpatti',
+          route: '/MuflisTeenpatti',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teenmuf.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Race To 17',
+          route: '/RaceTo17',
+          primaryImage:
+          'https://dataobj.ecoassetsservice.com/casino-icons/lc/race17.jpg',
+        fallbackImage:
+          'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        }, 
+        {
+          name: '20-20 Teenpatti B',
+          route: '/Teenpatti20_20B',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teen20b.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Trio',
+          route: '/Trio',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/trio.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Note Number',
+          route: '/NoteNumber',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/notenum.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'K.B.C',
+          route: '/KBC',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/kbc.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: '1 CARD 20-20',
+          route: '/Card20_20_1',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teen120.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: '1 CARD ONE-DAY',
+          route: '/CardOneDay_1',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teen1.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'ANDAR BAHAR 50 cards',
+          route: '/AndarBahar50_Cards',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/ab3.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Amar Akbar Anthony 2',
+          route: '/AmarAkbarAnthony2',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/aaa2.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Race to 2nd',
+          route: '/RaceTo2nd',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/race2.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Instant Teenpatti',
+          route: '/InstantTeenpatti',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/teen3.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: 'Dus ka Dum',
+          route: '/DusKaDum',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/dum10.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
+          name: '1 Card Meter',
+          route: '/CardMeter1',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/cmeter1.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        }
       ];
   return (
     <div className='w-full'>
