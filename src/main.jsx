@@ -74,6 +74,7 @@ import Card20_20_1 from './Routes/Card20_20_1.jsx'
 import CardOneDay_1 from './Routes/CardOneDay_1.jsx'
 
 // Roulette will be added
+import Roulette from './Routes/Roulette.jsx'
 
 import AndarBahar50_Cards from './Routes/AndarBahar50_Cards.jsx'
 import AmarAkbarAnthony2 from './Routes/AmarAkbarAnthony2.jsx'
@@ -156,6 +157,7 @@ createRoot(document.getElementById('root')).render(
       <Route path="/KBC" element={<KBC />} />
       <Route path="/Card20_20_1" element={<Card20_20_1 />} />
       <Route path="/CardOneDay_1" element={<CardOneDay_1 />} />
+      <Route path="/Roulette" element={<Roulette />} />
       <Route path="/AndarBahar50_Cards" element={<AndarBahar50_Cards />} />
       <Route path="/AmarAkbarAnthony2" element={<AmarAkbarAnthony2 />} />
       <Route path="/RaceTo2nd" element={<RaceTo2nd />} />

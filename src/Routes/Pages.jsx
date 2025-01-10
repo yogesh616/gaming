@@ -543,6 +543,14 @@ function Pages() {
             'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
         },
         {
+          name: 'Roulette',
+          route: '/Roulette',
+          primaryImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/lc/roulette.jpg',
+          fallbackImage:
+            'https://dataobj.ecoassetsservice.com/casino-icons/default.jpg',
+        },
+        {
           name: 'ANDAR BAHAR 50 cards',
           route: '/AndarBahar50_Cards',
           primaryImage:
